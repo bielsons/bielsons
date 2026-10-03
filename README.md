@@ -41,14 +41,6 @@
 
 ---
 
-<!-- COBRINHA ANIMADA (requer o workflow snake.yml) -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/github-snake-dark.svg" />
-  </picture>
-</p>
 
 <!-- RODAPÉ ANIMADO -->
 <p align="center">
