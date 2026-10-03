@@ -1,6 +1,4 @@
 
-<!-- Substitua SEU-USUARIO pelo seu usuário do GitHub (apenas na cobrinha) -->
-
 <!-- CABEÇALHO ANIMADO -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e7490,100:7c3aed&height=200&section=header&text=Gabriel%20Galvani&fontSize=50&fontColor=00f0ff&fontAlignY=38&animation=twinkling&desc=Sistemas&descSize=20&descColor=c4b5fd&descAlignY=60" alt="Gabriel Galvani" />
